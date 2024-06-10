@@ -1,9 +1,0 @@
-{
-    "cSpell.enabled": false,
-    "files.exclude": {
-        "build*/": true
-    },
-    "clangd.arguments": [
-        "--header-insertion=never"
-    ]
-}
